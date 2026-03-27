@@ -235,4 +235,4 @@ with gr.Blocks(title="Ask UK Law Pro") as demo:
     btn_w.click(lambda: "I was fired unfairly from my job", outputs=query_in)
 
 if __name__ == "__main__":
-    demo.launch(server_port=7860, share=False, theme=gr.themes.Soft(), css=custom_css)
+    demo.launch(theme=gr.themes.Soft(), css=custom_css)
