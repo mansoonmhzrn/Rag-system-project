@@ -1,0 +1,62 @@
+[
+  {
+    "act_title": "UK Immigration Rules - Appendix Student",
+    "year": "2024",
+    "act_number": "Appendix",
+    "part_title": "Immigration Rules",
+    "section_number": "ST 1.1",
+    "section_title": "Rule ST 1.1",
+    "text": "ST 1.1 A person applying for entry clearance or permission to stay as a Student must apply on the specified form...",
+    "id": "app_student_ST_1.1"
+  },
+  {
+    "act_title": "UK Immigration Rules - Appendix Student",
+    "year": "2024",
+    "act_number": "Appendix",
+    "part_title": "Immigration Rules",
+    "section_number": "ST 1.2",
+    "section_title": "Rule ST 1.2",
+    "text": "ST 1.2 An application for entry clearance or permission to stay as a Student must meet all the following requirements...",
+    "id": "app_student_ST_1.2"
+  },
+  {
+    "act_title": "UK Immigration Rules - Appendix Student",
+    "year": "2024",
+    "act_number": "Appendix",
+    "part_title": "Immigration Rules",
+    "section_number": "ST 26.1",
+    "section_title": "Rule ST 26.1",
+    "text": "ST 26.1 The applicant will be granted permission with the following employment conditions...",
+    "id": "app_student_ST_26.1"
+  },
+  {
+    "act_title": "UK Immigration Rules - Appendix Student",
+    "year": "2024",
+    "act_number": "Appendix",
+    "part_title": "Immigration Rules",
+    "section_number": "ST 26.5",
+    "section_title": "Rule ST 26.5",
+    "text": "ST 26.5 A Student is not allowed to do any of the following: (a) be self-employed...",
+    "id": "app_student_ST_26.5"
+  },
+  {
+    "act_title": "UK Immigration Rules - Appendix Graduate",
+    "year": "2024",
+    "act_number": "Appendix",
+    "part_title": "Immigration Rules",
+    "section_number": "GR 1.1",
+    "section_title": "Rule GR 1.1",
+    "text": "GR 1.1 A person applying for permission to stay as a Graduate must apply online...",
+    "id": "app_graduate_GR_1.1"
+  },
+  {
+    "act_title": "UK Immigration Rules - Appendix Graduate",
+    "year": "2024",
+    "act_number": "Appendix",
+    "part_title": "Immigration Rules",
+    "section_number": "GR 8.2",
+    "section_title": "Rule GR 8.2",
+    "text": "GR 8.2 The grant will be subject to all the following conditions: (a) no access to public funds; (b) work is permitted...",
+    "id": "app_graduate_GR_8.2"
+  }
+]

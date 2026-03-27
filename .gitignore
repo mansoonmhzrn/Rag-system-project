@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+
+# Project specific
+.DS_Store
+*.log
+/tmp/
+
+# Data (often excluded, but 25MB is okay for this demo repo)
+# If it gets larger than 100MB, move to Git LFS or exclude
+# data/

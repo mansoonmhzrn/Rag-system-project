@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "q_0",
+    "query": "What is the maximum prison sentence under the Fraud Act 2006 for fraud?",
+    "ground_truth_chunk_id": "2006_35_1",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Fraud"
+    }
+  },
+  {
+    "query_id": "q_1",
+    "query": "Under what circumstances is someone guilty of fraud according to the Fraud Act 2006?",
+    "ground_truth_chunk_id": "2006_35_1",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Fraud"
+    }
+  },
+  {
+    "query_id": "q_2",
+    "query": "What does the Fraud Act 2006 say about fraud by false representation?",
+    "ground_truth_chunk_id": "2006_35_2",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Fraud by false representation"
+    }
+  },
+  {
+    "query_id": "q_3",
+    "query": "Explain the rules around fraud by false representation in UK law.",
+    "ground_truth_chunk_id": "2006_35_2",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Fraud by false representation"
+    }
+  },
+  {
+    "query_id": "q_4",
+    "query": "What does the Fraud Act 2006 say about fraud by failing to disclose information?",
+    "ground_truth_chunk_id": "2006_35_3",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Fraud by failing to disclose information"
+    }
+  },
+  {
+    "query_id": "q_5",
+    "query": "Explain the rules around fraud by failing to disclose information in UK law.",
+    "ground_truth_chunk_id": "2006_35_3",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Fraud by failing to disclose information"
+    }
+  },
+  {
+    "query_id": "q_6",
+    "query": "What does the Fraud Act 2006 say about fraud by abuse of position?",
+    "ground_truth_chunk_id": "2006_35_4",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Fraud by abuse of position"
+    }
+  },
+  {
+    "query_id": "q_7",
+    "query": "Explain the rules around fraud by abuse of position in UK law.",
+    "ground_truth_chunk_id": "2006_35_4",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Fraud by abuse of position"
+    }
+  },
+  {
+    "query_id": "q_8",
+    "query": "What does the Fraud Act 2006 say about \u201cgain\u201d and  \u201closs\u201d?",
+    "ground_truth_chunk_id": "2006_35_5",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "\u201cGain\u201d and  \u201closs\u201d"
+    }
+  },
+  {
+    "query_id": "q_9",
+    "query": "Explain the rules around \u201cgain\u201d and  \u201closs\u201d in UK law.",
+    "ground_truth_chunk_id": "2006_35_5",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "\u201cGain\u201d and  \u201closs\u201d"
+    }
+  },
+  {
+    "query_id": "q_10",
+    "query": "What is the maximum prison sentence under the Fraud Act 2006 for possession etc. of articles for use in frauds?",
+    "ground_truth_chunk_id": "2006_35_6",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Possession etc. of articles for use in frauds"
+    }
+  },
+  {
+    "query_id": "q_11",
+    "query": "Under what circumstances is someone guilty of possession etc. of articles for use in frauds according to the Fraud Act 2006?",
+    "ground_truth_chunk_id": "2006_35_6",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Possession etc. of articles for use in frauds"
+    }
+  },
+  {
+    "query_id": "q_12",
+    "query": "What is the maximum prison sentence under the Fraud Act 2006 for making or supplying articles for use in frauds?",
+    "ground_truth_chunk_id": "2006_35_7",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Making or supplying articles for use in frauds"
+    }
+  },
+  {
+    "query_id": "q_13",
+    "query": "Under what circumstances is someone guilty of making or supplying articles for use in frauds according to the Fraud Act 2006?",
+    "ground_truth_chunk_id": "2006_35_7",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Making or supplying articles for use in frauds"
+    }
+  },
+  {
+    "query_id": "q_14",
+    "query": "What does the Fraud Act 2006 say about \u201carticle\u201d?",
+    "ground_truth_chunk_id": "2006_35_8",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "\u201cArticle\u201d"
+    }
+  },
+  {
+    "query_id": "q_15",
+    "query": "Explain the rules around \u201carticle\u201d in UK law.",
+    "ground_truth_chunk_id": "2006_35_8",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "\u201cArticle\u201d"
+    }
+  },
+  {
+    "query_id": "q_16",
+    "query": "What is the maximum prison sentence under the Fraud Act 2006 for participating in fraudulent business carried on by sole trader etc.?",
+    "ground_truth_chunk_id": "2006_35_9",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Participating in fraudulent business carried on by sole trader etc."
+    }
+  },
+  {
+    "query_id": "q_17",
+    "query": "Under what circumstances is someone guilty of participating in fraudulent business carried on by sole trader etc. according to the Fraud Act 2006?",
+    "ground_truth_chunk_id": "2006_35_9",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Participating in fraudulent business carried on by sole trader etc."
+    }
+  },
+  {
+    "query_id": "q_18",
+    "query": "What does the Fraud Act 2006 say about participating in fraudulent business carried on by company etc.: penalty?",
+    "ground_truth_chunk_id": "2006_35_10",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Participating in fraudulent business carried on by company etc.: penalty"
+    }
+  },
+  {
+    "query_id": "q_19",
+    "query": "Explain the rules around participating in fraudulent business carried on by company etc.: penalty in UK law.",
+    "ground_truth_chunk_id": "2006_35_10",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Participating in fraudulent business carried on by company etc.: penalty"
+    }
+  },
+  {
+    "query_id": "q_20",
+    "query": "What is the maximum prison sentence under the Fraud Act 2006 for obtaining services dishonestly?",
+    "ground_truth_chunk_id": "2006_35_11",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Obtaining services dishonestly"
+    }
+  },
+  {
+    "query_id": "q_21",
+    "query": "Under what circumstances is someone guilty of obtaining services dishonestly according to the Fraud Act 2006?",
+    "ground_truth_chunk_id": "2006_35_11",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Obtaining services dishonestly"
+    }
+  },
+  {
+    "query_id": "q_22",
+    "query": "Under what circumstances is someone guilty of liability of company officers for offences by company according to the Fraud Act 2006?",
+    "ground_truth_chunk_id": "2006_35_12",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Liability of company officers for offences by company"
+    }
+  },
+  {
+    "query_id": "q_23",
+    "query": "Explain the rules around liability of company officers for offences by company in UK law.",
+    "ground_truth_chunk_id": "2006_35_12",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Liability of company officers for offences by company"
+    }
+  },
+  {
+    "query_id": "q_24",
+    "query": "What does the Fraud Act 2006 say about evidence?",
+    "ground_truth_chunk_id": "2006_35_13",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Evidence"
+    }
+  },
+  {
+    "query_id": "q_25",
+    "query": "Explain the rules around evidence in UK law.",
+    "ground_truth_chunk_id": "2006_35_13",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Evidence"
+    }
+  },
+  {
+    "query_id": "q_26",
+    "query": "What does the Fraud Act 2006 say about minor and consequential amendments etc.?",
+    "ground_truth_chunk_id": "2006_35_14",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Minor and consequential amendments etc."
+    }
+  },
+  {
+    "query_id": "q_27",
+    "query": "Explain the rules around minor and consequential amendments etc. in UK law.",
+    "ground_truth_chunk_id": "2006_35_14",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Minor and consequential amendments etc."
+    }
+  },
+  {
+    "query_id": "q_28",
+    "query": "What does the Fraud Act 2006 say about commencement and extent?",
+    "ground_truth_chunk_id": "2006_35_15",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Commencement and extent"
+    }
+  },
+  {
+    "query_id": "q_29",
+    "query": "Explain the rules around commencement and extent in UK law.",
+    "ground_truth_chunk_id": "2006_35_15",
+    "metadata": {
+      "act": "Fraud Act 2006",
+      "section": "Commencement and extent"
+    }
+  }
+]
