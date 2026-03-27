@@ -1,3 +1,14 @@
+---
+title: UK Law Legal Assistant
+emoji: ⚖️
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 6.9.0
+app_file: app.py
+pinned: false
+---
+
 # ⚖️ Ask UK Law: Professional Student Legal Assistant
 
 An advanced **RAG-powered Knowledge Base** designed to help international students in the UK understand their legal rights regarding **Housing**, **Employment**, **Work Rights**, and **Schengen Visas**.
