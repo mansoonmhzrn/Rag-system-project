@@ -13,6 +13,11 @@ env/
 *.log
 /tmp/
 
-# Data (often excluded, but 25MB is okay for this demo repo)
-# If it gets larger than 100MB, move to Git LFS or exclude
-# data/
+# Data Index (Excluding heavy binaries)
+# These will be automatically rebuilt on the cloud from /data/parsed/*.json
+data/chroma_db/
+data/index/*.pkl
+
+# We KEEP the small parsed data and raw files
+# data/parsed/
+# data/raw/

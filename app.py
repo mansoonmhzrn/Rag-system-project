@@ -9,6 +9,12 @@ from gtts import gTTS
 from contract_analyzer import analyze_contract
 from letter_generator import generate_complaint_letter
 
+# Ensure indexes exist (Automatic setup for cloud deployment)
+from indexer import run_indexing
+if not os.path.exists("data/chroma_db") or not os.path.exists("data/index/bm25_index.pkl"):
+    print("Database files missing. Building indexes from parsed data...")
+    run_indexing()
+
 # Load indexes once when the app starts
 try:
     print("Loading legal indexes...")

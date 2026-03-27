@@ -127,29 +127,24 @@ def index_sparse_bm25_from_data(chunks, output_path: str):
         
     print(f"Sparse (BM25) Indexing Complete. Saved to {output_path}")
 
-if __name__ == "__main__":
+def run_indexing():
     parsed_dir = "data/parsed"
     bm25_index_file = "data/index/bm25_index.pkl"
     
     if not os.path.exists(parsed_dir):
         print("Please run parse_statute.py first to generate chunks.")
-        exit(1)
+        return
         
     all_chunks = load_all_chunks(parsed_dir)
     if not all_chunks:
         print("No chunks found in data/parsed")
-        exit(1)
+        return
         
     print("Starting Dense Indexing (Vector Embeddings)...")
     collection = setup_chromadb()
     
-    # Check if already fully indexed by comparing counts.
     if collection.count() < len(all_chunks):
         print("Updating ChromaDB collection...")
-        # Simplest approach for this demo: clear existing DB and rebuild
-        # Note: in production, you would only upsert new IDs.
-        # Since we use persistent client but want to rebuild, we can just upsert
-        # but Chroma add() will fail if id exists, so we should delete collection and recreate
         client = chromadb.PersistentClient(path=os.path.join(os.getcwd(), "data", "chroma_db"))
         try:
             client.delete_collection("uk_statutes")
@@ -162,5 +157,7 @@ if __name__ == "__main__":
          print(f"Collection already has {collection.count()} chunks. Skipping dense indexing.")
          
     print("\nStarting Sparse Indexing (BM25)...")
-    # BM25 must be fully rebuilt every time
     index_sparse_bm25_from_data(all_chunks, bm25_index_file)
+
+if __name__ == "__main__":
+    run_indexing()
